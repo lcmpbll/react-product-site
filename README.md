@@ -100,4 +100,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 _Feel free to reach out via [Github](github.com.lcmpbll) to provide feedback on this project or to view my other projects._
 
-[Copyright](LICENSE) (c) _11-09-2022_ _Liam Campbell
+[Copyright](LICENSE) (c) _05-06-2023_ _Liam Campbell
