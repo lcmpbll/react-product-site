@@ -24,7 +24,7 @@ const featuresArray = [
 const WhatGPT = () => {
   
   return (
-    <div className='gpt3__whatgpt3 section__margin' id='whatgpt3'>
+    <div className='gpt3__whatgpt3 section__margin' id='whatGPT'>
       <div className='gpt3__whatgpt3-feature'>
         <Feature title={featuresArray[0].title} text={featuresArray[0].text} />
       </div>
