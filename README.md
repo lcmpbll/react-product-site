@@ -1,7 +1,33 @@
-# Getting Started with Create React App
+# React Product Site
+
+## This is a product site demonstrating modern React UI/UX components. It is currently displaying an AI product. 
+
+## By Liam Campbell
+![Project Pic](./src/assets/Screen%20Shot%202023-05-06%20at%204.44.05%20PM.png)
+
+
+### Tutorial by [Javascript Mastery](https://www.youtube.com/watch?v=LMagNcngvcU)
+### Figma Design by [Tidbits JS](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?type=design&node-id=0-1)
+
+## Technologies Used
+* React Icons
+* React DOM
+* React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<details>
+<summary>Setup</summary>
+* Fork this repsitory from github: https://github.com/lcmpbll/Capstone to your desktop
+
+* Navigate to the top level of the directory.
+
+* In your terminal `$npm install` (may need --force or --legacy-peer-deps) 
+</details>
+
+
+<details>
+<summary>React Details</summary>
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +94,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</details>
+
+## License
+
+_Feel free to reach out via [Github](github.com.lcmpbll) to provide feedback on this project or to view my other projects._
+
+[Copyright](LICENSE) (c) _11-09-2022_ _Liam Campbell
