@@ -1,6 +1,6 @@
-import { default as Blog } from './blog';
-import { default as Features } from './blog';
-import { default as Footer } from './footer';
-import { default as Header } from './header';
-import { default as Possibility } from './possibility';
-import { default as WhatGPT } from './whatGPT3';
+export { default as Blog } from './blog';
+export { default as Features } from './blog';
+export { default as Footer } from './footer';
+export { default as Header } from './header';
+export { default as Possibility } from './possibility';
+export { default as WhatGPT } from './whatGPT3';
