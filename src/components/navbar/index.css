@@ -54,17 +54,18 @@
 .gpt3__navbar-menu_container-links-sign button {
   flex: 0.6;
   width: 100%;
+  min-width: 100px;
   min-height: 50px;
   color: #fff;
   background: #FF4820;
   font-family: var(--font-family);
   
   padding: 0.5rem 1rem;
- font-weight: 500;
- border: none;
- border-radius: 5px;
- outline: none;
- cursor: pointer;
+  font-weight: 500;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
 }
 
 .gpt3__navbar-menu {
